@@ -6,6 +6,9 @@ public class Finalize_ {
         bmw = null;
         System.gc();
         System.out.println("program exited.");
+        for (int i = 0; i < 5; i++) {
+
+        }
     }
 }
 
