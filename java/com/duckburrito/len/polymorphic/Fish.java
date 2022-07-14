@@ -1,0 +1,11 @@
+package com.duckburrito.len.polymorphic;
+
+public class Fish extends Food{
+
+    public Fish(String name) {
+        super(name);
+    }
+
+
+}
+
